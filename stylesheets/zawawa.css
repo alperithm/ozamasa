@@ -1,0 +1,7 @@
+zawa {
+  position: fixed;
+  white-space: nowrap;
+  opacity: 0.4;
+  z-index: 99999999999999;
+  display: none;
+}
